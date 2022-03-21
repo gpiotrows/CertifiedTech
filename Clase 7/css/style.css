@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+/* ETIQUETAS */
+
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 5px;
+
+
+}
+
+
+
+h1{
+    background-color: #142d4c;
+    color: white;
+    margin: 5px;
+
+
+
+}
+
+h2{
+    background-color: #385170;
+    color: white;
+    padding: 10px;
+    border-radius: 10px 0px 10px 10px;
+    overflow: hidden;
+
+}
+
+h3{
+    color: #385170;
+    font-weight: bolder;
+
+    
+}
+
+h4{
+    margin: 0px;
+
+}
+
+h5{
+    margin: 0px;
+}
+
+p{
+    color: black;
+    text-align: justify;
+}
+
+
+/* CLASSES */
+
+.profile-container{
+    background-color: #142d4c;
+    color: white;
+    width: auto;
+    height: 150px;
+    padding: 20px;
+    border-radius: 0px 0px 10px 70px;
+    overflow: hidden;
+}
+
+.main-info {
+    float: left;
+    text-align: left;
+    
+}
+
+.profile-picture{
+    position: relative;
+    float: right;
+    right: 50px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.main-box{
+    position: relative;
+    margin: 20px;
+
+}
